@@ -1,0 +1,8 @@
+{
+    "extends": "./tsconfig.all.json",
+    "include": ["src", "test","examples"],
+    "compilerOptions": {
+        "noEmit": true,
+        "skipLibCheck": true
+    }
+}
